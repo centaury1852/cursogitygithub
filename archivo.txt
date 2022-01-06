@@ -1,0 +1,3 @@
+Este es un archivo que sera usado para probar los diferentes comandos de git.
+
+version base
