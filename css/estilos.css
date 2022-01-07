@@ -4,3 +4,21 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+
+
+#div{
+
+    border-radius: 3px;
+    border-color: black;
+}
+header{
+
+    color: black;
+    font-size: 20px;
+    border: blue;
+    border-radius: 1px;
+
+
+    margin: 25px 5px 20px 5px;
+}
+
