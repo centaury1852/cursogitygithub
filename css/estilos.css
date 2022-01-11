@@ -121,6 +121,7 @@ background-color: aquamarine;
 .footerfirma{
 
     color:gray;
+    font-weight: bold;
     background-color: indigo;
     border-style: solid;
     border-width: 1px;
