@@ -7,3 +7,5 @@ Hoy hablaremos de su historia.
 Acabe de borrar todo y no me arrepiento, porqué estoy aprendiendo.
 
 27ceddfd3cf68
+
+use -f para forzar el push.
