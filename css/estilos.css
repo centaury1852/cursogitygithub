@@ -4,10 +4,10 @@ body{
     text-align: center;
     font-family: "Arial";
     margin: 0;
-    display: block;
-    justify-content: center;
-    align-items: center;
-}
+    padding: 0;
+    display: grid;
+    width: auto;
+    }
 
 
 
@@ -16,21 +16,27 @@ body{
 
     color: black;
     font-size: 30px;
-    border: blue;
+    border-style: dotted;
+    border: 5px;
     margin: 25px 5px 20px 5px;
-
-    width: 900px;
-}
+    padding: 1px;
+    
+    
+    }
 
 .titulo{
-
     border-style: solid;
     border-width: 1px;
     border-radius: 20%;
-}
+    border-color: gainsboro;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    
+    
+    }
 
 .main{
 background-color: aquamarine;
+
 
 }
 
@@ -39,32 +45,37 @@ background-color: aquamarine;
     border-style: solid;
     border-width: 1px;
     border-radius: 20%;
+    width: auto;
 
     margin: 20px 0 20px 0;
-    background-color: gray;
+    /*background-color: rgb(150, 85, 85);*/
 
-    width: 900px;
 
 }
 
 
 .encabezado{
+    border-top: 0;
     border-style: solid;
     border-width: 1px;
     border-radius: 20%;
     margin: 20px 0 20px 0;
-}
+    background-color: goldenrod;
+    padding: 0;
+    }
 
 .tituloencabezado{
     text-align: center;
     font-size: 30px;
     font-weight: bold;
+    
 
 }
 
 .textoencabezado{
     text-align: justify;
     font-size: 16px;
+    
 
 }
 
@@ -73,12 +84,14 @@ background-color: aquamarine;
     border-width: 1px;
     border-radius: 20%;
     margin: 20px 0 20px 0;
+    background-color: blanchedalmond;
 }
 
 
 .textoencabezado2{
     text-align: justify;
     font-size: 16px;
+    
     
 }
 
@@ -88,6 +101,7 @@ background-color: aquamarine;
     border-width: 1px;
     border-radius: 20%;
     margin: 20px 0 20px 0;
+    background-color: burlywood;
 }
 
 .final_section{
@@ -95,11 +109,12 @@ background-color: aquamarine;
     border-width: 1px;
     border-radius: 20%;
     margin: 20px 0 20px 0;
+    background-color: coral;
+    
 }
 
 .footerfirma{
 
-    width: 900px;
     color:gray;
     background-color: indigo;
     border-style: solid;
