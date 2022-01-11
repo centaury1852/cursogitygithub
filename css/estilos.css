@@ -1,0 +1,110 @@
+body{
+
+    /*color: rgb(0, 0, 0);*/
+    text-align: center;
+    font-family: "Arial";
+    margin: 0;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.headertitulo{
+
+    color: black;
+    font-size: 30px;
+    border: blue;
+    margin: 25px 5px 20px 5px;
+
+    width: 900px;
+}
+
+.titulo{
+
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20%;
+}
+
+.main{
+background-color: aquamarine;
+
+}
+
+
+.container{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20%;
+
+    margin: 20px 0 20px 0;
+    background-color: gray;
+
+    width: 900px;
+
+}
+
+
+.encabezado{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20%;
+    margin: 20px 0 20px 0;
+}
+
+.tituloencabezado{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.textoencabezado{
+    text-align: justify;
+    font-size: 16px;
+
+}
+
+.encabezado2{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20%;
+    margin: 20px 0 20px 0;
+}
+
+
+.textoencabezado2{
+    text-align: justify;
+    font-size: 16px;
+    
+}
+
+
+.final{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20%;
+    margin: 20px 0 20px 0;
+}
+
+.final_section{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20%;
+    margin: 20px 0 20px 0;
+}
+
+.footerfirma{
+
+    width: 900px;
+    color:gray;
+    background-color: indigo;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20%;
+    margin: 20px 0 20px 0;
+
+}
