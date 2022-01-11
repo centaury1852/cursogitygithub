@@ -55,6 +55,8 @@ background-color: aquamarine;
 
 
 .encabezado{
+    display: block;
+    text-align: center;
     border-top: 0;
     border-style: solid;
     border-width: 1px;
@@ -69,12 +71,15 @@ background-color: aquamarine;
     font-size: 30px;
     font-weight: bold;
     
+    
 
 }
 
 .textoencabezado{
     text-align: justify;
     font-size: 16px;
+    
+    text-align: center;
     
 
 }
