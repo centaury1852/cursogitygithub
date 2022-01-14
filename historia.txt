@@ -34,8 +34,67 @@ empiezo a hacer rebase manteniendo dos enter desde use -f
 
 
 
-segundo commit
 
-tercer commit desde main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 codignlearningb es un contributor de este proyecto.
 volvi a editar esto para poder hacer otro pull request.
