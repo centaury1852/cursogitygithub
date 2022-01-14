@@ -10,9 +10,3 @@ Acabe de borrar todo y no me arrepiento, porqué estoy aprendiendo.
 
 use -f para forzar el push.
 
-empiezo a hacer rebase manteniendo dos enter desde use -f
-
-codignlearningb es un contributor de este proyecto.
-volvi a editar esto para poder hacer otro pull request.
-
-empezare en linea 20.
