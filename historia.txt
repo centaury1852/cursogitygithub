@@ -10,6 +10,7 @@ Acabe de borrar todo y no me arrepiento, porqué estoy aprendiendo.
 
 use -f para forzar el push.
 
+
 empiezo a hacer rebase manteniendo dos enter desde use -f
 
 luego pase a experimento1, cree esta rama.
@@ -36,8 +37,40 @@ luego pase a experimento1, cree esta rama.
 
 
 
-segundo commit
 
-tercer commit desde main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 codignlearningb es un contributor de este proyecto.
 volvi a editar esto para poder hacer otro pull request.
