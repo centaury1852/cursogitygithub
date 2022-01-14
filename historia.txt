@@ -12,6 +12,8 @@ use -f para forzar el push.
 
 empiezo a hacer rebase manteniendo dos enter desde use -f
 
+luego pase a experimento1, cree esta rama.
+
 
 
 
