@@ -22,6 +22,17 @@ use -f para forzar el push.
 
 
 
+
+
+
+
+
+
+
+
+
+Movi todo para abajo en el primer commit de experimento rama.
+
 Movi todo para evitar conflictos. commit 3 en 
 
 Empezare a probar el rebase parte 1, primer commit.
