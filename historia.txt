@@ -12,5 +12,14 @@ use -f para forzar el push.
 
 Empezare a probar el rebase parte 1, primer commit.
 
+2 seguire luego con el reset. lo hice. creo que funciono. 
+
+3
+
+4
+
+5
+
+6
 codignlearningb es un contributor de este proyecto.
 volvi a editar esto para poder hacer otro pull request.
