@@ -10,6 +10,20 @@ Acabe de borrar todo y no me arrepiento, porqué estoy aprendiendo.
 
 use -f para forzar el push.
 
+
+
+
+
+
+
+
+
+
+
+
+
+Movi todo para evitar conflictos. commit 3 en 
+
 Empezare a probar el rebase parte 1, primer commit.
 
 Aqui cree la rama experimento y primer commit en esta rama.
